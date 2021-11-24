@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Program files/AndroidStudioProjects/Hedgehog/app/src/main/res/drawable/ic_joke.xml" value="0.15555555555555556" />
+        <entry key="..\:/Program files/AndroidStudioProjects/Hedgehog/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Program files/AndroidStudioProjects/Hedgehog/app/src/main/res/menu/bottom_nav_menu.xml" value="0.196875" />
         <entry key="..\:/Users/rikom/AndroidStudioProjects/TZ2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
         <entry key="..\:/Users/rikom/AndroidStudioProjects/TZ2/app/src/main/res/drawable/ic_dashboard.xml" value="0.2703125" />
         <entry key="..\:/Users/rikom/AndroidStudioProjects/TZ2/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2703125" />
