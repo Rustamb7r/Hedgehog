@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hedgehog_Test</string>
+    <string name="title_jokes">Jokes</string>
+    <string name="title_web">Web</string>
+</resources>
