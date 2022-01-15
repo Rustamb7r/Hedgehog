@@ -14,6 +14,7 @@ import java.util.concurrent.TimeUnit
 
 object JokeDataSourceImpl: JokeDataSource {
 
+
     private const val CONNECT_TIMEOUT_SECONDS = 120L
     private const val READ_TIMEOUT_SECONDS = 120L
 
